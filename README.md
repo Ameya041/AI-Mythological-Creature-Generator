@@ -1,5 +1,3 @@
-Here's your polished and complete `README.md` for your GitHub repo:
-
 ---
 
 ```markdown
@@ -41,7 +39,7 @@ pip install -r requirements.txt
 python app.py
 ```
 
-The app will open in your browser at `http://localhost:7860`
+The app will open in your browser at `http://localhost:7860` or the gradio link provided after running the app.py file
 
 ---
 
@@ -69,8 +67,11 @@ The app will open in your browser at `http://localhost:7860`
 ---
 
 ## 📸 Screenshots
+![Screenshot 2025-04-14 234755](https://github.com/user-attachments/assets/0ab1164e-dd75-402d-ad77-6148f5c95de4)
+![Screenshot 2025-04-14 234817](https://github.com/user-attachments/assets/73476dff-4fc4-42e6-8194-c9952d97c9ab)
+![Screenshot 2025-04-14 234838](https://github.com/user-attachments/assets/d945f65d-68c8-42c8-93d0-154bbb9df95c)
 
-*(Add screenshots of the UI and output if you have any)*
+**
 
 ---
 
@@ -85,6 +86,3 @@ The app will open in your browser at `http://localhost:7860`
 This project is open source under the [MIT License](LICENSE).
 ```
 
----
-
-Let me know if you'd like a version with Hugging Face Spaces deployment instructions, badges, or preview GIFs!
