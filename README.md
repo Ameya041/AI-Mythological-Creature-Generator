@@ -1,4 +1,4 @@
-Here's your polished and complete `README.md` for your GitHub repo:
+`README.md` for GitHub repo:
 
 ---
 
@@ -88,5 +88,3 @@ This project is open source under the [MIT License](LICENSE).
 ```
 
 ---
-
-Let me know if you'd like a version with Hugging Face Spaces deployment instructions, badges, or preview GIFs!
