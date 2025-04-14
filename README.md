@@ -1,3 +1,5 @@
+Here's your polished and complete `README.md` for your GitHub repo:
+
 ---
 
 ```markdown
@@ -39,7 +41,7 @@ pip install -r requirements.txt
 python app.py
 ```
 
-The app will open in your browser at `http://localhost:7860` or the gradio link provided after running the app.py file
+The app will open in your browser at `http://localhost:7860`
 
 ---
 
@@ -67,11 +69,10 @@ The app will open in your browser at `http://localhost:7860` or the gradio link 
 ---
 
 ## 📸 Screenshots
-![Screenshot 2025-04-14 234755](https://github.com/user-attachments/assets/0ab1164e-dd75-402d-ad77-6148f5c95de4)
-![Screenshot 2025-04-14 234817](https://github.com/user-attachments/assets/73476dff-4fc4-42e6-8194-c9952d97c9ab)
-![Screenshot 2025-04-14 234838](https://github.com/user-attachments/assets/d945f65d-68c8-42c8-93d0-154bbb9df95c)
 
-**
+*![Screenshot 2025-04-14 234755](https://github.com/user-attachments/assets/40887206-de2c-44cc-baf6-520487a6a17c)
+![Screenshot 2025-04-14 234817](https://github.com/user-attachments/assets/7ffe5607-7f9b-4d6e-ab57-adeb6511376c)
+![Screenshot 2025-04-14 234838](https://github.com/user-attachments/assets/0cf5dc3a-a03a-40ab-84b9-16319b0da263)*
 
 ---
 
@@ -86,3 +87,6 @@ The app will open in your browser at `http://localhost:7860` or the gradio link 
 This project is open source under the [MIT License](LICENSE).
 ```
 
+---
+
+Let me know if you'd like a version with Hugging Face Spaces deployment instructions, badges, or preview GIFs!
