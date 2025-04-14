@@ -23,7 +23,7 @@ An interactive Gradio app that generates rich, imaginative lore for mythological
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/your-username/mythological-creature-generator.git
+git clone https://github.com/Ameya041/mythological-creature-generator.git
 cd mythological-creature-generator
 ```
 
