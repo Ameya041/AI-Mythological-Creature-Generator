@@ -1,4 +1,4 @@
-`README.md` for GitHub repo:
+`README.md`:
 
 ---
 
